@@ -66,9 +66,9 @@ require('lualine').setup {
             {
                 'diff',
                 symbols = {
-                    added		= '',
-                    modified	= '󰝤',
-                    removed		= ''
+                    added = '',
+                    modified = '󰝤',
+                    removed = ''
                 }
             },
             'diagnostics'
